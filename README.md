@@ -1,5 +1,5 @@
 # 💫 About Me:
-Motivated and detail-oriented Pre-Final Year B.Tech student with core expertise in Java, C, C++, Data Structures,<br>Web Development and Data Analytics.Strong understanding of Object-Oriented Programming (OOP) principles and SQL,<br>with the ability to apply technical and analytical skills across diverse technology domains.
+Motivated and detail-oriented Final Year B.Tech student with core expertise in Java, C, C++, Data Structures,<br>Web Development and Data Analytics.Strong understanding of Object-Oriented Programming (OOP) principles and SQL,<br>with the ability to apply technical and analytical skills across diverse technology domains.
 
 
 ## 🌐 Socials:
